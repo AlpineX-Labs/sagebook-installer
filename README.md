@@ -4,6 +4,11 @@ This repository contains the setup instructions and dependencies for the Sageboo
 
 ## Setup Instructions
 
+### TL;DR:
+1. Clone this repo
+2. Install conda, activate conda env
+3. `pip install -r requirements.txt` or just `pip install sage-agent`
+
 ### 0. Clone Repository (Optional)
 
 If you don't already have this repository locally, clone it:
