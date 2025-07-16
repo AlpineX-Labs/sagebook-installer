@@ -4,6 +4,15 @@ This repository contains the setup instructions and dependencies for the Sageboo
 
 ## Setup Instructions
 
+### 0. Clone Repository (Optional)
+
+If you don't already have this repository locally, clone it:
+
+```bash
+git clone https://github.com/AlpineX-Labs/sagebook-installer.git
+cd sagebook-installer
+```
+
 ### 1. Install Package Management (Conda)
 
 We recommend using conda for package management. Follow the installation guide for macOS:
