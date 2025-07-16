@@ -35,9 +35,17 @@ pip install -r requirements.txt
 ### Note:
 You can edit this requirements files or just simply pip install other packages in your `sagebook` env
 
+## Required Folders
+
+This project requires the following folders to exist:
+- `data/` - For storing data files
+- `templates/` - For storing template files
+
+These folders are included in the repository, but if you want to start from a different folder, you should create these, as needed.
+
 ## Usage
 
-After completing the setup, you can start JupyterLab:
+After completing the setup, you can start JupyterLab, in the folder where you want to work 
 
 ```bash
 jupyter lab
