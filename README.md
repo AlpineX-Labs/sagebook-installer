@@ -34,11 +34,17 @@ conda activate sagebook
 ```
 
 ### 3. Install Dependencies
-
 Install the required packages using the requirements file:
 
 ```bash
 pip install -r requirements.txt
+```
+
+### ADVANCED (Your Own Package Management)
+
+You can use your own Python environment if you prefer, but you **must** install the `sage-agent` package from [PyPI](https://pypi.org/project/sage-agent/):
+```bash
+pip install sage-agent
 ```
 
 ### Note:

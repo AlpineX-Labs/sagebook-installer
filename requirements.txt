@@ -5,6 +5,7 @@ nbformat
 nbclient
 
 # other important packages
+sage-agent
 pandas
 matplotlib
 numpy
