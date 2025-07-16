@@ -1,0 +1,18 @@
+# jupyter api management
+jupyterlab 
+ipykernel
+nbformat
+nbclient
+
+# other important packages
+pandas
+matplotlib
+numpy
+seaborn
+scipy
+scikit-learn
+plotly
+yfinance
+fuzzywuzzy
+python-Levenshtein
+statsmodels 
